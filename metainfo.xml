@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<presentation availableOffline="1" guid="C6F0B8E8-57A5-498D-A6D2-3A8A6F14C46E" version="0">
+	<info>
+		<title>2021-08-22 Malola Education Online Exam-4 Level II Adv</title>
+		<description/>
+	</info>
+	<files index="id32" thumbnail="id28" totalSize="3393330">
+		<file id="id0">data/apple-touch-icon.png</file>
+		<file id="id1">data/browsersupport.js</file>
+		<file id="id2">data/favicon.ico</file>
+		<file id="id3">data/fonts/fnt0.woff</file>
+		<file id="id4">data/fonts/fnt1.woff</file>
+		<file id="id5">data/fonts/fnt2.woff</file>
+		<file id="id6">data/fonts/fnt3.woff</file>
+		<file id="id7">data/fonts/fnt4.woff</file>
+		<file id="id8">data/fonts/fnt5.woff</file>
+		<file id="id9">data/fonts/fnt6.woff</file>
+		<file id="id10">data/html5-unsupported.html</file>
+		<file id="id11">data/html5.png</file>
+		<file id="id12">data/images/img-0604854f65ec1950ed5d2de761494d99fd101b43.jpg</file>
+		<file id="id13">data/images/img-124a90cb36067d0a8921b9f88caf170805bcb1a5.jpg</file>
+		<file id="id14">data/images/img-14549bb89721af5aa1ea9dc5509f1290aae6d457.jpg</file>
+		<file id="id15">data/images/img-1f72c0f4e17dd71962ec1263e4f684ec34165f77.PNG</file>
+		<file id="id16">data/images/img-3bd88ae7237181a35f6d028484751432dd9e4916.jpg</file>
+		<file id="id17">data/images/img-401faa3606c7f34210048a981ed5886ea42ae219.jpg</file>
+		<file id="id18">data/images/img-572576a620a3753d66126b1330296a970e3b2429.PNG</file>
+		<file id="id19">data/images/img-7f9cf9d89fe15b5467227e76517d90184ba6045c.PNG</file>
+		<file id="id20">data/images/img-83a9b00d228f9c52e2295ec479592e56e2246f2e.jpg</file>
+		<file id="id21">data/images/img-90aa4b9a6db094e32d8b28a836febcb983a33c12.PNG</file>
+		<file id="id22">data/images/img-ad28a5fab84da2e56e783bb4db4f67aa46d8444a.jpg</file>
+		<file id="id23">data/images/img-e4d15a9a4b750c0f3a901516a82cbceb9b0b411c.PNG</file>
+		<file id="id24">data/images/img-eab609810ce268f46c898253e79c838ee249c3b7.PNG</file>
+		<file id="id25">data/images/img-f94c6fc3b87cb10ca1a3423ece3780309d8db89c.PNG</file>
+		<file id="id26">data/ismplayer/app_store2x.png</file>
+		<file id="id27">data/ismplayer/play.svg</file>
+		<file id="id28">data/ismplayer/preview.png</file>
+		<file id="id29">data/ismplayer/style.css</file>
+		<file id="id30">data/ismplayer/style_mini.css</file>
+		<file id="id31">data/player.js</file>
+		<file id="id32">index.html</file>
+		<file id="id33">ismplayer.html</file>
+		<file id="id34">preview.png</file>
+	</files>
+</presentation>
+
